@@ -1,0 +1,22 @@
+/*
+ * @lc app=leetcode.cn id=118 lang=cpp
+ *
+ * [118] 杨辉三角
+ */
+
+// @lc code=start
+class Solution {
+public:
+    vector<vector<int>> generate(int numRows) {
+        vector<vector<int>> res(numRows);  // create a 2-D array.
+        for(int i=0; i<numRows; i++){
+            res[i].resize(i+1, 1);         // Makes it as [[1], [1,1], [1,1,1], ...]
+            for(int j=1; j<i; j++){
+                res[i][j] = res[i-1][j] + res[i-1][j-1];
+            }
+        }
+        return res;
+    }
+};
+// @lc code=end
+
