@@ -12,3 +12,6 @@ Some problems related to BackTracking.
 
 ## Greedy algorithm
 Some problems related to Greedy algorithm.
+
+## Sliding Window
+Some problems related to Sliding Window.
