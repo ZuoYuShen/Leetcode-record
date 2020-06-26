@@ -25,3 +25,9 @@ Some problems related to Greedy algorithm.
 
 ## Sliding Window
 Some problems related to Sliding Window.
+
+## Dutch national flag problem
+Some problems related to Dutch national flag problem.
+
+## Data structure
+Linked list, Tree, Table, Graph...

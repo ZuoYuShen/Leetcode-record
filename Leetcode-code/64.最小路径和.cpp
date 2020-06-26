@@ -1,5 +1,5 @@
 /*
- * @lc app=leetcode.cn id=56 lang=cpp
+ * @lc app=leetcode.cn id=64 lang=cpp
  *
  * [64] 最小路径和
  */
