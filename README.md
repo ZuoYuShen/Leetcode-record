@@ -8,6 +8,7 @@ Some problems related to DP.
 | :------| :------: |
 | [5.最长回文子串(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/5.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.cpp)  | 30.8%  |
 | [53.最大子序和(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/53.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.cpp)  | 51.5%  |
+| [55.跳跃游戏(Median)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/55.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.cpp)  | 40.3%  |
 | [64.最小路径和(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.cpp)  | 65.8%  |
 | [70.爬楼梯(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/70.%E7%88%AC%E6%A5%BC%E6%A2%AF.cpp)  | 49.8%  |
 | [121.买卖股票的最佳时机(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.cpp)  | 54.3%  |
