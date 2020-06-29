@@ -20,6 +20,9 @@ Some problems related to Two-pointers.
 ## BackTracking
 Some problems related to BackTracking.
 
+## Binary search
+Some problems related to Binary search.
+
 ## Greedy algorithm
 Some problems related to Greedy algorithm.
 
