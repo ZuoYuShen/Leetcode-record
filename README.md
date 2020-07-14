@@ -12,6 +12,7 @@ Some problems related to DP.
 | [64.最小路径和(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.cpp)  | 65.8%  |
 | [70.爬楼梯(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/70.%E7%88%AC%E6%A5%BC%E6%A2%AF.cpp)  | 49.8%  |
 | [96.不同的二叉搜索树(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-DP.cpp)  | 66.0%  |
+| [120.三角形最小路径和(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/120.%E4%B8%89%E8%A7%92%E5%BD%A2%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.cpp)  | 66.2%  |
 | [121.买卖股票的最佳时机(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.cpp)  | 54.3%  |
 | [139.单词拆分(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/139.%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.cpp)  | 45.8%  |
 
