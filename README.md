@@ -39,6 +39,8 @@ Some problems related to Dutch national flag problem.
 ## Tree
 Some problems related to Tree structure.
 
+| Problem | AC rate |
+| :------| :------: |
 | [94.二叉树的中序遍历(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/94.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86-Recursion.cpp)  | 72.1%  |
 | [95.不同的二叉搜索树Ⅱ(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/95.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E2%85%A1--%E5%9B%9E%E6%BA%AF.cpp)  | 63.5%  |
 | [96.不同的二叉搜索树(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91-DP.cpp)  | 69.1%  |
