@@ -24,6 +24,17 @@ Some problems related to Two-pointers.
 ## BackTracking
 Some problems related to BackTracking.
 
+| Problem | AC rate |
+| :------| :------: |
+| [17.电话号码的字母组合(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/17.%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.cpp)  | 54.0%  |
+| [22.括号生成(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/22.%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.cpp)  | 75.8%  |
+| [39.组合总和(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/39.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.cpp)  | 69.3%  |
+| [40.组合总和-ii(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/40.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C-ii.cpp)  | 62.2%  |
+| [46.全排列(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/46.%E5%85%A8%E6%8E%92%E5%88%97.cpp)  | 76.5%  |
+| [47.全排列-ii(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/47.%E5%85%A8%E6%8E%92%E5%88%97-ii.cpp)  | 59.4%  |
+| [77.组合(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/77.%E7%BB%84%E5%90%88.cpp)  | 74.3%  |
+| [90.子集Ⅱ(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/90.%E5%AD%90%E9%9B%86%E2%85%A1.cpp)  | 60.5%  |
+
 ## Binary search
 Some problems related to Binary search.
 
