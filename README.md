@@ -27,6 +27,17 @@ Some problems related to BackTracking.
 ## Binary search
 Some problems related to Binary search.
 
+| Problem | AC rate |
+| :------| :------: |
+| [29.两数相除(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/29.%E4%B8%A4%E6%95%B0%E7%9B%B8%E9%99%A4.cpp)  | 20.0%  |
+| [33.搜索旋转排序数组(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/33.%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.cpp)  | 38.4%  |
+| [34.在排序数组中查找元素的第一个和最后一个位置(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/34.%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.cpp)  | 40.0%  |
+| [35.搜索插入位置(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/35.%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.cpp)  | 46.7%  |
+| [50.Pow(x, n)(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/50.Pow(x%2C%20n).cpp)  | 36.1%  |
+| [74.搜索二维矩阵(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/74.%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5.cpp)  | 38.5%  |
+| [154.寻找旋转排序数组中的最小值 II(Hard)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/154.%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BCII.cpp)  | 50.0%  |
+| [378.有序矩阵中第K小的元素(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/378.%E6%9C%89%E5%BA%8F%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%AC%ACk%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0-%E4%BA%8C%E5%88%86.cpp)  | 62.6%  |
+
 ## Greedy algorithm
 Some problems related to Greedy algorithm.
 
