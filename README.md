@@ -16,6 +16,7 @@ Some problems related to DP.
 | [121.买卖股票的最佳时机(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.cpp)  | 54.3%  |
 | [139.单词拆分(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/139.%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.cpp)  | 45.8%  |
 | [312.戳气球(Hard)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/312.%E6%88%B3%E6%B0%94%E7%90%83_DP.cpp)  | 64.6%  |
+| [1025.除数博弈(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/1025.%E9%99%A4%E6%95%B0%E5%8D%9A%E5%BC%88_DP.cpp)  | 70.9%  |
 
 
 ## Two pointers
@@ -70,6 +71,8 @@ Some problems related to Tree structure.
 | [99.恢复二叉搜索树(Hard)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/99.%E6%81%A2%E5%A4%8D%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.cpp)  | 57.7%  |
 | [100.相同的树(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/100.%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A0%91.cpp)  | 58.3%  |
 | [101.对称二叉树(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/101.%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)  | 52.5%  |
+| [102.二叉树的层次遍历(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/102.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.cpp)  | 63.1%  |
 | [103.二叉树的锯齿形层次遍历(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/103.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%94%AF%E9%BD%BF%E5%BD%A2%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.cpp)  | 54.7%  |
 | [104.二叉树的最大深度(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/104.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6_%E9%80%92%E5%BD%92(DFS).cpp)  | 73.9%  |
+| [107.二叉树的层次遍历Ⅱ(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/107.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86%E2%85%A1-getDepth.cpp)  | 66.1%  |
 | [108.将有序数组转换为二叉搜索树(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/108.%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.cpp)  | 73.5%  |
