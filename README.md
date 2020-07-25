@@ -16,6 +16,7 @@ Some problems related to DP.
 | [121.买卖股票的最佳时机(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.cpp)  | 54.3%  |
 | [139.单词拆分(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/139.%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.cpp)  | 45.8%  |
 | [312.戳气球(Hard)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/312.%E6%88%B3%E6%B0%94%E7%90%83_DP.cpp)  | 64.6%  |
+| [410.分割数组的最大值(Hard)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/410.%E5%88%86%E5%89%B2%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC_DP.cpp)  | 46.6%  |
 | [1025.除数博弈(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/1025.%E9%99%A4%E6%95%B0%E5%8D%9A%E5%BC%88_DP.cpp)  | 70.9%  |
 
 
@@ -49,6 +50,7 @@ Some problems related to Binary search.
 | [74.搜索二维矩阵(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/74.%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5.cpp)  | 38.5%  |
 | [154.寻找旋转排序数组中的最小值 II(Hard)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/154.%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BCII.cpp)  | 50.0%  |
 | [378.有序矩阵中第K小的元素(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/378.%E6%9C%89%E5%BA%8F%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%AC%ACk%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0-%E4%BA%8C%E5%88%86.cpp)  | 62.6%  |
+| [410.分割数组的最大值(Hard)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/410.%E5%88%86%E5%89%B2%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC_%E4%BA%8C%E5%88%86.cpp)  | 46.6%  |
 
 ## Greedy algorithm
 Some problems related to Greedy algorithm.
