@@ -76,5 +76,6 @@ Some problems related to Tree structure.
 | [102.二叉树的层次遍历(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/102.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.cpp)  | 63.1%  |
 | [103.二叉树的锯齿形层次遍历(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/103.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%94%AF%E9%BD%BF%E5%BD%A2%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.cpp)  | 54.7%  |
 | [104.二叉树的最大深度(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/104.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6_%E9%80%92%E5%BD%92(DFS).cpp)  | 73.9%  |
+| [105.从前序与中序遍历序列构造二叉树(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/105.%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)  | 67.6%  |
 | [107.二叉树的层次遍历Ⅱ(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/107.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86%E2%85%A1-getDepth.cpp)  | 66.1%  |
 | [108.将有序数组转换为二叉搜索树(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/108.%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.cpp)  | 73.5%  |
