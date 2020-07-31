@@ -51,6 +51,7 @@ Some problems related to Binary search.
 | [154.寻找旋转排序数组中的最小值 II(Hard)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/154.%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BCII.cpp)  | 50.0%  |
 | [378.有序矩阵中第K小的元素(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/378.%E6%9C%89%E5%BA%8F%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%AC%ACk%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0-%E4%BA%8C%E5%88%86.cpp)  | 62.6%  |
 | [410.分割数组的最大值(Hard)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/410.%E5%88%86%E5%89%B2%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC_%E4%BA%8C%E5%88%86.cpp)  | 46.6%  |
+| [1685.面试题0803魔术索引(Easy)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/1685.%E9%9D%A2%E8%AF%95%E9%A2%980803%E9%AD%94%E6%9C%AF%E7%B4%A2%E5%BC%95.cpp)  | 68.0%  |
 
 ## Greedy algorithm
 Some problems related to Greedy algorithm.
