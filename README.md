@@ -37,6 +37,7 @@ Some problems related to BackTracking.
 | [47.全排列-ii(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/47.%E5%85%A8%E6%8E%92%E5%88%97-ii.cpp)  | 59.4%  |
 | [77.组合(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/77.%E7%BB%84%E5%90%88.cpp)  | 74.3%  |
 | [90.子集Ⅱ(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/90.%E5%AD%90%E9%9B%86%E2%85%A1.cpp)  | 60.5%  |
+| [93.复原IP地址(Medium)](https://github.com/ZuoYuShen/Leetcode-record/blob/master/Leetcode-code/93.%E5%A4%8D%E5%8E%9FIP%E5%9C%B0%E5%9D%80.cpp)  | 48.7%  |
 
 ## Binary search
 Some problems related to Binary search.
